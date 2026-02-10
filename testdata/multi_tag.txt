@@ -1,0 +1,9 @@
+#names
+alice
+bob
+#symbols
+!
+@
+#numbers
+42
+99
